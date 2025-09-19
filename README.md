@@ -4,7 +4,7 @@
 
 **Sinh viên thực hiện:** Trần Phúc Toàn  
 **MSSV:** 23110344  
-**Lớp:** DH23CS01  
+**Lớp:** 231102A  
 **Môn học:** Lập trình Web  
 **Chủ đề:** Category CRUD với Spring Boot & Thymeleaf  
 
@@ -194,4 +194,4 @@ Mở trình duyệt và truy cập: `http://localhost:8080`
 
 ---
 
-*© 2024 Trần Phúc Toàn - 23110344. All rights reserved.*
+*© 2025 Trần Phúc Toàn - 23110344*
